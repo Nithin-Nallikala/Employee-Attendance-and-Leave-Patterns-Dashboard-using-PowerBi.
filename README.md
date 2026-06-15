@@ -50,3 +50,13 @@ This HR Analytics project analyzes employee attendance, work-from-home (WFH), an
 8. KPI Reporting
 9. Workforce Analytics
 10. Business Insight Generation
+
+## Dashboard Screenshots
+
+### Attendance & Leave Overview
+
+![Attendance Dashboard](Screenshots/EmpA&LP-1.png)
+
+### Attendance Trends & Insights
+
+![Attendance Insights](Screenshots/EmpA&LP-2.png)
